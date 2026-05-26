@@ -1,0 +1,31 @@
+Step+1+-+flight-deals-start/.env
+venv/
+__pycache__/
+.idea/
+.venv/
+*.pyc
+*.iml
+*.xml
+# PyCharm IDE
+
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+.DS_Store?
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.settings/
