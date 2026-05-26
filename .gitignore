@@ -1,0 +1,28 @@
+# PyCharm IDE
+.idea/
+*.xml
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+.DS_Store?
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.settings/
