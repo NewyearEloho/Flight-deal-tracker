@@ -1,18 +1,15 @@
-Step+1+-+flight-deals-start/.env
-venv/
-__pycache__/
-.idea/
-.venv/
-*.pyc
-*.iml
-*.xml
 # PyCharm IDE
+.idea/
+*.xml
+*.iml
 
 # Python
+__pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+venv/
 env/
 .venv
 
